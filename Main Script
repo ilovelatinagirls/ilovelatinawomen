@@ -1,7 +1,7 @@
-local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/mocha"))()
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
--- discord webhook ( when someone launched the script )
-loadstring(game:HttpGet"https://pastebin.com/raw/AzgUz0Pg")()
+-- discord webhook ( when someone launches the script )
+loadstring(game:HttpGet"https://pastebin.com/raw/5Q1tmE6c")()
 -- ANTI AFK BLOCK --
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/igaslightwomen/aid/main/anti%20afk', true))()
 
