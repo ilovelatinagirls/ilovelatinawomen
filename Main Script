@@ -246,14 +246,14 @@ end
 Page4.Button({
     Text = "Shop",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/Shop"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/iHgNAxUn"))()
 end
 })
 
 Page4.Button({
     Text = "Stoneshop",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/Stone%20Shop"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/XNArzkXX"))()
 end
 })
 
@@ -264,42 +264,42 @@ local Page5 = UI.New({
 Page5.Button({
     Text = "Absol + Eevee",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/absol%20%2B%20eevee%20giver"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/ZDgfKaip"))()
 end
 })
 
 Page5.Button({
     Text = "Enable RTD + Running",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/enable%20rtd%20%2B%20running"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/0bBqeXfN"))()
 end
 })
 
 Page5.Button({
     Text = "Gives Leftovers",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/give%20leftovers"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/qEbp2kqM"))()
 end
 })
 
 Page5.Button({
     Text = "Kings Rock",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/kings%20rock%20giver"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/fgaNVs24"))()
 end
 })
 
 Page5.Button({
     Text = "BlackWhite Egg",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/bw%20egg%20giver"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/8NQ8ew5v"))()
 end
 })
 
 Page5.Button({
     Text = "Gives SawsbuckCoffee",
 Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/coffee%20giver"))()    
+loadstring(game:HttpGet("https://pastebin.com/raw/5bbMXdrv"))()    
 end
 })
 
@@ -310,7 +310,7 @@ local Page5 = UI.New({
 Page5.Button({
     Text = "Show UMV Rocks",
 Callback = function()
-loadstring(game:HttpGet("https://github.com/igaslight/New-PBB-UI/blob/main/Show%20UMV%20Rocks"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/uubLUH5d"))()
 end
 })
 
@@ -320,6 +320,6 @@ local Page6 = UI.New({
 Page6.TextField({
     Text = "Type Here",
     Callback = function(value)
-loadstring(game:HttpGet(" https://raw.githubusercontent.com/igaslight/New-PBB-UI/main/bug%20report%20webhook"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/1gJrspV7"))()
     end
 })
